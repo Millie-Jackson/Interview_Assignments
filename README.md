@@ -62,6 +62,10 @@ Doesnt actually check if the in-built methods are removing the same items, just 
 Could use a regex to find the most common letter pattens, then manually decide if that word is necessary, then remove that word from the data set
 Could automate the above process?^
 
+STRUGGLES
+Havent got to time/space complexity or testing on my course yet, so took some time to give myself a crash course specifically for this task. My understanding of these concepts is thus quite rudermentary at present. time complexity took a while to get my head around and I'm not confident in the answer. I would have liked to have done this task with more knowledge under my belt.
+Spent a long time grasping time complexity and (along with other comitments) led to not fully implimenting the unit tests. There was an error 'could not find renderer' that I didnt have time to fix.
+
 RESOURCES USED
 https://www.w3schools.com/python/python_howto_remove_duplicates.asp
 https://datagy.io/python-remove-duplicates-from-list/
